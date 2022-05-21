@@ -1,0 +1,31 @@
+,tconst,title,isAdult,startYear,runtimeMinutes,genres,averageRating,numVotes,file_name,label
+1,tt0075314,Taxi Driver,0,1976,114,"Crime,Drama",8.3,793759,taxi-driver,neg
+2,tt0103639,Aladdin,0,1992,90,"Adventure,Animation,Comedy",8,401315,aladdin,pos
+3,tt0110604,Mute Witness,0,1995,95,"Crime,Horror,Thriller",6.7,5716,mute-witness,neg
+4,tt0114369,Se7en,0,1995,127,"Crime,Drama,Mystery",8.6,1581306,se7en,neg
+5,tt0114709,Toy Story,0,1995,81,"Adventure,Animation,Comedy",8.3,960743,toy-story,pos
+6,tt0118617,Anastasia,0,1997,94,"Adventure,Animation,Drama",7.1,121034,anastasia,pos
+7,tt0120338,Titanic,0,1997,194,"Drama,Romance",7.9,1130822,titanic,neg
+8,tt0120586,American History X,0,1998,119,Drama,8.5,1094140,american-history-x,neg
+9,tt0126029,Shrek,0,2001,90,"Adventure,Animation,Comedy",7.9,658071,shrek,pos
+10,tt0251736,House of 1000 Corpses,0,2003,89,Horror,6,84401,house-of-1000-corpses,neg
+11,tt0266543,Finding Nemo,0,2003,100,"Adventure,Animation,Comedy",8.2,1014602,finding-nemo,pos
+12,tt0278504,Insomnia,0,2002,118,"Drama,Mystery,Thriller",7.2,290474,insomnia,neg
+13,tt0309593,Final Destination 2,0,2003,90,"Horror,Thriller",6.2,163388,final-destination-2,neg
+14,tt0387564,Saw,0,2004,103,"Horror,Mystery,Thriller",7.6,409507,saw,neg
+15,tt0413267,Shrek the Third,0,2007,93,"Adventure,Animation,Comedy",6.1,300046,shrek-the-third,pos
+16,tt0441773,Kung Fu Panda,0,2008,92,"Action,Adventure,Animation",7.6,454616,kung-fu-panda,pos
+17,tt0837563,Pet Sematary,0,2019,101,"Horror,Mystery,Thriller",5.7,90770,pet-sematary,neg
+18,tt0974661,17 Again,0,2009,102,"Comedy,Drama,Fantasy",6.4,196611,17-again,pos
+19,tt11861230,Beauty and the Beast,0,2017,\N,"Comedy,Drama,Family",,,beauty-and-the-beast,pos
+20,tt1216475,Cars 2,0,2011,106,"Adventure,Animation,Comedy",6.2,181081,cars-2,pos
+21,tt1396484,It,0,2017,135,Horror,7.3,514617,it,neg
+22,tt1591095,Insidious,0,2010,103,"Horror,Mystery,Thriller",6.8,300311,insidious,neg
+23,tt1646971,How to Train Your Dragon 2,0,2014,102,"Action,Adventure,Animation",7.8,326724,how-to-train-your-dragon-2,pos
+24,tt1690953,Despicable Me 2,0,2013,98,"Adventure,Animation,Comedy",7.3,390838,despicable-me-2,pos
+25,tt2180411,Into the Woods,0,2014,125,"Adventure,Comedy,Drama",5.9,139471,into-the-woods,pos
+26,tt2380307,Coco,0,2017,105,"Adventure,Animation,Comedy",8.4,474139,coco,pos
+27,tt2911666,John Wick,0,2014,101,"Action,Crime,Thriller",7.4,604144,john-wick,neg
+28,tt2948356,Zootopia,0,2016,108,"Adventure,Animation,Comedy",8,480064,zootopia,pos
+29,tt3783958,La La Land,0,2016,128,"Comedy,Drama,Music",8,563326,la-la-land,pos
+30,tt6644200,A Quiet Place,0,2018,90,"Drama,Horror,Sci-Fi",7.5,504862,a-quiet-place,neg

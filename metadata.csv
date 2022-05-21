@@ -1,0 +1,645 @@
+,tconst,title,isAdult,startYear,runtimeMinutes,genres,averageRating,numVotes,file_name
+0,tt0017496,Under Fire,0,1926,50,Western,,,under-fire
+1,tt0020564,Wall Street,0,1929,68,Drama,6.6,23.0,wall-street
+2,tt0022626,American Madness,0,1932,75,Drama,7.4,2034.0,american-madness
+3,tt0023969,Duck Soup,0,1933,69,"Comedy,Musical",7.8,59637.0,duck-soup
+4,tt0036613,Arsenic and Old Lace,0,1943,118,"Comedy,Crime,Thriller",7.9,69969.0,arsenic-and-old-lace
+5,tt0036670,Brazil,0,1944,91,"Comedy,Musical,Romance",6.0,186.0,brazil
+6,tt0036775,Double Indemnity,0,1944,107,"Crime,Drama,Film-Noir",8.3,153962.0,double-indemnity
+7,tt0037343,Tall in the Saddle,0,1944,87,Western,6.9,3123.0,tall-in-the-saddle
+8,tt0038650,It's a Wonderful Life,0,1946,130,"Drama,Family,Fantasy",8.6,443773.0,it's-a-wonderful-life
+9,tt0040835,Station West,0,1948,97,Western,6.6,1254.0,station-west
+10,tt0041827,Roughshod,0,1949,88,"Action,Adventure,Drama",6.6,630.0,roughshod
+11,tt0042192,All About Eve,0,1950,138,Drama,8.2,129329.0,all-about-eve
+12,tt0043014,Sunset Blvd.,0,1950,110,"Drama,Film-Noir",8.4,217108.0,sunset-blvd.
+13,tt0043686,Jeux interdits,0,1952,86,"Comedy,Drama,War",8.0,12093.0,jeux-interdits
+14,tt0044079,Strangers on a Train,0,1951,101,"Crime,Drama,Film-Noir",7.9,132018.0,strangers-on-a-train
+15,tt0044907,Les Miserables,0,1952,105,"Adventure,Drama,History",6.8,1046.0,les-miserables
+16,tt0045793,From Here to Eternity,0,1953,118,"Drama,Romance,War",7.6,46434.0,from-here-to-eternity
+17,tt0047396,Rear Window,0,1954,112,"Mystery,Thriller",8.5,479523.0,rear-window
+18,tt0047849,Bad Day at Black Rock,0,1955,81,"Crime,Drama,Mystery",7.7,21479.0,bad-day-at-black-rock
+19,tt0048356,Marty,0,1955,90,"Drama,Romance",7.7,23999.0,marty
+20,tt0048545,Rebel Without a Cause,0,1955,111,Drama,7.7,89263.0,rebel-without-a-cause
+21,tt0048734,Top Gun,0,1955,73,Western,6.2,588.0,top-gun
+22,tt0063426,Petulia,0,1968,105,"Drama,Romance",6.9,3101.0,petulia
+23,tt0064232,Le diable par la queue,0,1969,90,Comedy,6.7,806.0,le-diable-par-la-queue
+24,tt0064665,Midnight Cowboy,0,1969,113,Drama,7.8,109364.0,midnight-cowboy
+25,tt0065724,Five Easy Pieces,0,1970,98,Drama,7.4,36399.0,five-easy-pieces
+26,tt0067128,Get Carter,0,1971,112,"Action,Crime,Thriller",7.4,32929.0,get-carter
+27,tt0067180,"Happy Birthday, Wanda June",0,1971,105,"Comedy,Drama",6.0,328.0,"happy-birthday,-wanda-june"
+28,tt0067309,Klute,0,1971,114,"Crime,Mystery,Thriller",7.1,25562.0,klute
+29,tt0069704,American Graffiti,0,1973,110,"Comedy,Drama",7.4,88258.0,american-graffiti
+30,tt0069762,Badlands,0,1973,94,"Action,Crime,Drama",7.7,71843.0,badlands
+31,tt0069945,Dark Star,0,1974,83,"Comedy,Sci-Fi",6.2,24211.0,dark-star
+32,tt0070337,Lost Horizon,0,1973,150,"Adventure,Drama,Fantasy",5.2,2578.0,lost-horizon
+33,tt0070379,Mean Streets,0,1973,112,"Crime,Drama,Thriller",7.2,107568.0,mean-streets
+34,tt0071315,Chinatown,0,1974,130,"Drama,Mystery,Thriller",8.2,318962.0,chinatown
+35,tt0071571,Gone in 60 Seconds,0,1974,105,"Action,Crime,Drama",6.4,9000.0,gone-in-60-seconds
+36,tt0072684,Barry Lyndon,0,1975,185,"Adventure,Drama,War",8.1,163635.0,barry-lyndon
+37,tt0072890,Dog Day Afternoon,0,1975,125,"Biography,Crime,Drama",8.0,251919.0,dog-day-afternoon
+38,tt0073195,Jaws,0,1975,124,"Adventure,Thriller",8.1,581126.0,jaws
+39,tt0073440,Nashville,0,1975,160,"Comedy,Drama,Music",7.7,25969.0,nashville
+40,tt0073486,One Flew Over the Cuckoo's Nest,0,1975,133,Drama,8.7,980950.0,one-flew-over-the-cuckoo's-nest
+41,tt0073692,Shampoo,0,1975,110,"Comedy,Drama",6.4,12694.0,shampoo
+42,tt0073705,Shivers,0,1975,87,"Horror,Sci-Fi",6.4,20704.0,shivers
+43,tt0074119,All the President's Men,0,1976,138,"Drama,History,Thriller",7.9,113085.0,all-the-president's-men
+44,tt0074285,Carrie,0,1976,98,"Horror,Mystery",7.4,181975.0,carrie
+45,tt0075148,Rocky,0,1976,120,"Drama,Sport",8.1,558560.0,rocky
+46,tt0075314,Taxi Driver,0,1976,114,"Crime,Drama",8.3,793759.0,taxi-driver
+47,tt0075685,Obsessed,1,1977,75,"Adult,Crime,Drama",6.5,121.0,obsessed
+48,tt0075686,Annie Hall,0,1977,93,"Comedy,Romance",8.0,262330.0,annie-hall
+49,tt0077405,Days of Heaven,0,1978,94,"Drama,Romance",7.8,57276.0,days-of-heaven
+50,tt0077766,Jaws 2,0,1978,116,"Adventure,Horror,Thriller",5.8,77019.0,jaws-2
+51,tt0077928,Midnight Express,0,1978,121,"Biography,Crime,Drama",7.5,78698.0,midnight-express
+52,tt0078748,Alien,0,1979,117,"Horror,Sci-Fi",8.5,851324.0,alien
+53,tt0078788,Apocalypse Now,0,1979,147,"Drama,Mystery,War",8.5,649365.0,apocalypse-now
+54,tt0078841,Being There,0,1979,130,"Comedy,Drama",8.0,71540.0,being-there
+55,tt0078902,Breaking Away,0,1979,101,"Comedy,Drama,Sport",7.7,23360.0,breaking-away
+56,tt0079945,Star Trek: The Motion Picture,0,1979,132,"Adventure,Mystery,Sci-Fi",6.4,88524.0,star-trek:-the-motion-picture
+57,tt0080130,When a Stranger Calls,0,1979,97,"Horror,Mystery,Thriller",6.4,12039.0,when-a-stranger-calls
+58,tt0080745,Flash Gordon,0,1980,111,"Action,Adventure,Sci-Fi",6.5,55628.0,flash-gordon
+59,tt0081283,Ordinary People,0,1980,124,Drama,7.7,51313.0,ordinary-people
+60,tt0081383,Prom Night,0,1980,92,"Horror,Mystery,Thriller",5.3,17773.0,prom-night
+61,tt0081398,Raging Bull,0,1980,129,"Biography,Drama,Sport",8.2,345291.0,raging-bull
+62,tt0082089,Body Heat,0,1981,113,"Crime,Drama,Romance",7.4,34965.0,body-heat
+63,tt0082288,Dragonslayer,0,1981,108,"Action,Adventure,Fantasy",6.6,17796.0,dragonslayer
+64,tt0082340,Escape from New York,0,1981,99,"Action,Adventure,Sci-Fi",7.1,138843.0,escape-from-new-york
+65,tt0082348,Excalibur,0,1981,140,"Adventure,Drama,Fantasy",7.3,61132.0,excalibur
+66,tt0083511,48 Hrs.,0,1982,96,"Action,Comedy,Crime",6.9,76597.0,48-hrs.
+67,tt0083658,Blade Runner,0,1982,117,"Action,Drama,Sci-Fi",8.1,746966.0,blade-runner
+68,tt0083833,Diner,0,1982,110,"Comedy,Drama",7.1,20922.0,diner
+69,tt0083929,Fast Times at Ridgemont High,0,1982,90,"Comedy,Drama",7.1,103144.0,fast-times-at-ridgemont-high
+70,tt0099077,Awakenings,0,1990,121,"Biography,Drama",7.8,137388.0,awakenings
+71,tt0099348,Dances with Wolves,0,1990,181,"Adventure,Drama,Western",8.0,258953.0,dances-with-wolves
+72,tt0099365,Darkman,0,1990,96,"Action,Sci-Fi,Thriller",6.4,63315.0,darkman
+73,tt0099423,Die Hard 2,0,1990,124,"Action,Thriller",7.1,356595.0,die-hard-2
+74,tt0099487,Edward Scissorhands,0,1990,105,"Drama,Fantasy,Romance",7.9,476114.0,edward-scissorhands
+75,tt0099653,Ghost,0,1990,127,"Drama,Fantasy,Romance",7.1,212309.0,ghost
+76,tt0099739,Hard to Kill,0,1990,96,"Action,Crime,Drama",5.8,29772.0,hard-to-kill
+77,tt0099871,Jacob's Ladder,0,1990,113,"Drama,Horror,Mystery",7.4,106316.0,jacob's-ladder
+78,tt0100150,Miller's Crossing,0,1990,115,"Crime,Drama,Thriller",7.7,133718.0,miller's-crossing
+79,tt0100157,Misery,0,1990,107,"Drama,Thriller",7.8,202624.0,misery
+80,tt0100260,Nightbreed,0,1990,102,"Action,Fantasy,Horror",6.4,22705.0,nightbreed
+81,tt0100405,Pretty Woman,0,1990,119,"Comedy,Romance",7.1,315345.0,pretty-woman
+82,tt0100791,To Sleep with Anger,0,1990,102,Drama,7.2,2492.0,to-sleep-with-anger
+83,tt0100802,Total Recall,0,1990,113,"Action,Adventure,Sci-Fi",7.5,323258.0,total-recall
+84,tt0100814,Tremors,0,1990,96,"Comedy,Horror",7.1,134499.0,tremors
+85,tt0100935,Wild at Heart,0,1990,125,"Comedy,Crime,Drama",7.2,91637.0,wild-at-heart
+86,tt0101393,Backdraft,0,1991,137,"Action,Drama,Mystery",6.7,78853.0,backdraft
+87,tt0101410,Barton Fink,0,1991,116,"Comedy,Drama,Thriller",7.6,119729.0,barton-fink
+88,tt0102070,Hudson Hawk,0,1991,100,"Action,Adventure,Comedy",5.7,56091.0,hudson-hawk
+89,tt0102138,JFK,0,1991,189,"Drama,History,Thriller",8.0,153149.0,jfk
+90,tt0102181,Kafka,0,1991,98,"Drama,Mystery,Sci-Fi",6.8,10003.0,kafka
+91,tt0102307,Light Sleeper,0,1992,103,"Crime,Drama",6.8,7410.0,light-sleeper
+92,tt0102492,My Girl,0,1991,102,"Comedy,Drama,Family",6.9,79715.0,my-girl
+93,tt0102685,Point Break,0,1991,122,"Action,Crime,Thriller",7.2,177042.0,point-break
+94,tt0102753,Rambling Rose,0,1991,112,Drama,6.6,5038.0,rambling-rose
+95,tt0103074,Thelma & Louise,0,1991,130,"Adventure,Crime,Drama",7.5,150428.0,thelma-&-louise
+96,tt0103594,1492: Conquest of Paradise,0,1992,154,"Adventure,Biography,Drama",6.4,30079.0,1492:-conquest-of-paradise
+97,tt0103639,Aladdin,0,1992,90,"Adventure,Animation,Comedy",8.0,401315.0,aladdin
+98,tt0103759,Bad Lieutenant,0,1992,96,"Crime,Drama,Thriller",7.0,42503.0,bad-lieutenant
+99,tt0103772,Basic Instinct,0,1992,127,"Drama,Mystery,Thriller",7.0,195392.0,basic-instinct
+100,tt0103893,Buffy the Vampire Slayer,0,1992,86,"Action,Comedy,Fantasy",5.6,44209.0,buffy-the-vampire-slayer
+101,tt0104073,Deep Cover,0,1992,107,"Action,Crime,Thriller",6.9,11281.0,deep-cover
+102,tt0104257,A Few Good Men,0,1992,138,"Drama,Thriller",7.7,255699.0,a-few-good-men
+103,tt0104549,Jennifer Eight,0,1992,124,"Crime,Drama,Mystery",6.3,16815.0,jennifer-eight
+104,tt0104815,El mariachi,0,1992,81,"Action,Crime,Thriller",6.8,66639.0,el-mariachi
+105,tt0104990,Newsies,0,1992,121,"Drama,Family,History",6.9,20624.0,newsies
+106,tt0105128,Pet Sematary II,0,1992,100,"Fantasy,Horror",4.8,21244.0,pet-sematary-ii
+107,tt0105236,Reservoir Dogs,0,1992,99,"Crime,Drama,Thriller",8.3,988160.0,reservoir-dogs
+108,tt0105414,Single White Female,0,1992,107,"Drama,Thriller",6.4,36529.0,single-white-female
+109,tt0105417,Sister Act,0,1992,100,"Comedy,Family,Music",6.4,96939.0,sister-act
+110,tt0105585,Thunderheart,0,1992,119,"Crime,Mystery,Thriller",6.8,15893.0,thunderheart
+111,tt0106303,Arctic Blue,0,1993,95,"Action,Thriller",5.1,1045.0,arctic-blue
+112,tt0106308,Army of Darkness,0,1992,81,"Comedy,Horror",7.4,173522.0,army-of-darkness
+113,tt0106387,Benny & Joon,0,1993,98,"Comedy,Drama,Romance",7.1,57525.0,benny-&-joon
+114,tt0106447,"Bodies, Rest & Motion",0,1993,95,Drama,5.7,2374.0,"bodies,-rest-&-motion"
+115,tt0106453,Body of Evidence,0,1992,99,"Drama,Thriller",4.5,15131.0,body-of-evidence
+116,tt0106582,Cliffhanger,0,1993,113,"Action,Adventure,Thriller",6.5,128071.0,cliffhanger
+117,tt0106834,Even Cowgirls Get the Blues,0,1993,106,"Comedy,Drama,Romance",4.3,7442.0,even-cowgirls-get-the-blues
+118,tt0106873,Fatal Instinct,0,1993,91,"Comedy,Crime,Thriller",5.7,7519.0,fatal-instinct
+119,tt0107048,Groundhog Day,0,1993,101,"Comedy,Drama,Fantasy",8.1,612982.0,groundhog-day
+120,tt0107302,Kalifornia,0,1993,117,"Crime,Drama,Thriller",6.7,53636.0,kalifornia
+121,tt0107507,Manhattan Murder Mystery,0,1993,104,"Comedy,Mystery",7.3,43342.0,manhattan-murder-mystery
+122,tt0107818,Philadelphia,0,1993,125,Drama,7.7,237796.0,philadelphia
+123,tt0108052,Schindler's List,0,1993,195,"Biography,Drama,History",9.0,1312714.0,schindler's-list
+124,tt0108149,Six Degrees of Separation,0,1993,112,"Comedy,Drama,Mystery",6.8,21054.0,six-degrees-of-separation
+125,tt0108160,Sleepless in Seattle,0,1993,105,"Comedy,Drama,Romance",6.8,172752.0,sleepless-in-seattle
+126,tt0108174,So I Married an Axe Murderer,0,1993,93,"Comedy,Romance",6.4,37927.0,so-i-married-an-axe-murderer
+127,tt0108330,This Boy's Life,0,1993,115,"Biography,Drama",7.3,52205.0,this-boy's-life
+128,tt0108358,Tombstone,0,1993,130,"Action,Biography,Drama",7.8,143519.0,tombstone
+129,tt0108399,True Romance,0,1993,119,"Crime,Drama,Romance",7.9,222682.0,true-romance
+130,tt0109040,Ace Ventura: Pet Detective,0,1994,86,Comedy,6.9,295328.0,ace-ventura:-pet-detective
+131,tt0109445,Clerks,0,1994,92,Comedy,7.7,219538.0,clerks
+132,tt0109450,Cobb,0,1994,128,"Biography,Drama,Sport",6.4,7634.0,cobb
+133,tt0109456,Color of Night,0,1994,121,"Drama,Mystery,Romance",5.2,23995.0,color-of-night
+134,tt0109686,Dumb and Dumber,0,1994,107,Comedy,7.3,376283.0,dumb-and-dumber
+135,tt0109707,Ed Wood,0,1994,127,"Biography,Comedy,Drama",7.8,173873.0,ed-wood
+136,tt0109830,Forrest Gump,0,1994,142,"Drama,Romance",8.8,1988548.0,forrest-gump
+137,tt0109838,Freaked,0,1993,86,"Comedy,Sci-Fi",6.3,7229.0,freaked
+138,tt0110005,Heavenly Creatures,0,1994,99,"Biography,Crime,Drama",7.3,63134.0,heavenly-creatures
+139,tt0110097,I'll Do Anything,0,1994,115,"Comedy,Drama",5.5,2684.0,i'll-do-anything
+140,tt0110265,Killing Zoe,0,1993,96,"Crime,Thriller",6.4,20504.0,killing-zoe
+141,tt0110604,Mute Witness,0,1995,95,"Crime,Horror,Thriller",6.7,5716.0,mute-witness
+142,tt0110632,Natural Born Killers,0,1994,119,"Action,Crime,Drama",7.2,230300.0,natural-born-killers
+143,tt0110912,Pulp Fiction,0,1994,154,"Crime,Drama",8.9,1978029.0,pulp-fiction
+144,tt0111127,Serial Mom,0,1994,95,"Comedy,Crime,Thriller",6.8,29302.0,serial-mom
+145,tt0111280,Star Trek: Generations,0,1994,118,"Action,Adventure,Mystery",6.6,80968.0,star-trek:-generations
+146,tt0111503,True Lies,0,1994,141,"Action,Comedy,Thriller",7.3,253241.0,true-lies
+147,tt0112573,Braveheart,0,1995,178,"Biography,Drama,History",8.4,1014949.0,braveheart
+148,tt0112641,Casino,0,1995,178,"Crime,Drama",8.2,504662.0,casino
+149,tt0112697,Clueless,0,1995,97,"Comedy,Romance",6.9,207884.0,clueless
+150,tt0112722,Copycat,0,1995,123,"Drama,Mystery,Thriller",6.6,58617.0,copycat
+151,tt0112857,Devil in a Blue Dress,0,1995,102,"Crime,Drama,Mystery",6.7,19956.0,devil-in-a-blue-dress
+152,tt0113101,Four Rooms,0,1995,98,Comedy,6.7,103706.0,four-rooms
+153,tt0113161,Get Shorty,0,1995,105,"Comedy,Crime,Thriller",6.9,83002.0,get-shorty
+154,tt0113243,Hackers,0,1995,105,"Crime,Drama,Romance",6.2,69098.0,hackers
+155,tt0113253,Halloween: The Curse of Michael Myers,0,1995,87,"Horror,Thriller",4.7,35950.0,halloween:-the-curse-of-michael-myers
+156,tt0113492,Judge Dredd,0,1995,96,"Action,Crime,Sci-Fi",5.5,116794.0,judge-dredd
+157,tt0113540,Kids,0,1995,91,Drama,7.0,77695.0,kids
+158,tt0113627,Leaving Las Vegas,0,1995,111,"Drama,Romance",7.5,122360.0,leaving-las-vegas
+159,tt0113677,Living in Oblivion,0,1995,90,"Comedy,Drama",7.5,18397.0,living-in-oblivion
+160,tt0113690,Lord of Illusions,0,1995,109,"Horror,Mystery,Thriller",6.0,17579.0,lord-of-illusions
+161,tt0113820,Mighty Morphin Power Rangers: The Movie,0,1995,95,"Action,Adventure,Family",5.2,27133.0,mighty-morphin-power-rangers:-the-movie
+162,tt0113972,Nick of Time,0,1995,90,"Action,Crime,Drama",6.3,41757.0,nick-of-time
+163,tt0114369,Se7en,0,1995,127,"Crime,Drama,Mystery",8.6,1581306.0,se7en
+164,tt0114388,Sense and Sensibility,0,1995,136,"Drama,Romance",7.7,113391.0,sense-and-sensibility
+165,tt0114558,Strange Days,0,1995,145,"Crime,Drama,Sci-Fi",7.1,71116.0,strange-days
+166,tt0114709,Toy Story,0,1995,81,"Adventure,Animation,Comedy",8.3,960743.0,toy-story
+167,tt0115632,Basquiat,0,1996,107,"Biography,Drama",6.9,20662.0,basquiat
+168,tt0115641,Beavis and Butt-Head Do America,0,1996,81,"Adventure,Animation,Comedy",6.8,55333.0,beavis-and-butt-head-do-america
+169,tt0115710,Blood and Wine,0,1996,101,"Crime,Drama,Thriller",6.0,10046.0,blood-and-wine
+170,tt0115734,Bottle Rocket,0,1996,91,"Comedy,Crime,Drama",6.9,75706.0,bottle-rocket
+171,tt0115736,Bound,0,1996,109,"Crime,Thriller",7.3,54802.0,bound
+172,tt0115759,Broken Arrow,0,1996,108,"Action,Adventure,Thriller",6.1,97512.0,broken-arrow
+173,tt0115964,Crash,0,1996,100,Drama,6.4,58380.0,crash
+174,tt0116225,Escape from L.A.,0,1996,101,"Action,Adventure,Sci-Fi",5.7,73977.0,escape-from-l.a.
+175,tt0116282,Fargo,0,1996,98,"Crime,Thriller",8.1,662564.0,fargo
+176,tt0116367,From Dusk Till Dawn,0,1996,108,"Action,Crime,Horror",7.2,307040.0,from-dusk-till-dawn
+177,tt0116629,Independence Day,0,1996,145,"Action,Adventure,Sci-Fi",7.0,561888.0,independence-day
+178,tt0116695,Jerry Maguire,0,1996,139,"Comedy,Drama,Romance",7.3,259324.0,jerry-maguire
+179,tt0116905,Lone Star,0,1996,135,"Drama,Mystery,Western",7.4,29596.0,lone-star
+180,tt0116922,Lost Highway,0,1997,134,"Mystery,Thriller",7.6,139763.0,lost-highway
+181,tt0117666,Sling Blade,0,1996,135,Drama,8.0,92912.0,sling-blade
+182,tt0117731,Star Trek: First Contact,0,1996,111,"Action,Adventure,Drama",7.6,123954.0,star-trek:-first-contact
+183,tt0117918,Tin Cup,0,1996,135,"Comedy,Drama,Romance",6.4,49681.0,tin-cup
+184,tt0117951,Trainspotting,0,1996,93,Drama,8.1,672503.0,trainspotting
+185,tt0118158,White Squall,0,1996,129,"Adventure,Drama",6.6,23770.0,white-squall
+186,tt0118548,Absolute Power,0,1997,121,"Action,Crime,Drama",6.7,54339.0,absolute-power
+187,tt0118571,Air Force One,0,1997,124,"Action,Drama,Thriller",6.5,192717.0,air-force-one
+188,tt0118583,Alien: Resurrection,0,1997,109,"Action,Horror,Sci-Fi",6.2,243023.0,alien:-resurrection
+189,tt0118617,Anastasia,0,1997,94,"Adventure,Animation,Drama",7.1,121034.0,anastasia
+190,tt0118689,Bean,0,1997,89,"Adventure,Comedy,Family",6.5,103421.0,bean
+191,tt0118749,Boogie Nights,0,1997,155,Drama,7.9,258985.0,boogie-nights
+192,tt0118842,Chasing Amy,0,1997,113,"Comedy,Drama,Romance",7.2,136950.0,chasing-amy
+193,tt0118900,Gang Related,0,1997,116,"Action,Crime,Drama",6.4,8955.0,gang-related
+194,tt0118956,Deep Rising,0,1998,106,"Action,Adventure,Horror",6.0,36732.0,deep-rising
+195,tt0119008,Donnie Brasco,0,1997,127,"Biography,Crime,Drama",7.7,299569.0,donnie-brasco
+196,tt0119081,Event Horizon,0,1997,96,"Horror,Sci-Fi,Thriller",6.6,173981.0,event-horizon
+197,tt0119177,Gattaca,0,1997,106,"Drama,Sci-Fi,Thriller",7.8,297813.0,gattaca
+198,tt0119217,Good Will Hunting,0,1997,126,"Drama,Romance",8.3,934855.0,good-will-hunting
+199,tt0119381,Inventing the Abbotts,0,1997,110,"Drama,Romance",6.4,12751.0,inventing-the-abbotts
+200,tt0119396,Jackie Brown,0,1997,154,"Crime,Drama,Thriller",7.5,341041.0,jackie-brown
+201,tt0119485,Kundun,0,1997,134,"Biography,Drama,History",7.0,27903.0,kundun
+202,tt0119488,L.A. Confidential,0,1997,138,"Crime,Drama,Mystery",8.3,570270.0,l.a.-confidential
+203,tt0119528,Liar Liar,0,1997,86,"Comedy,Fantasy",6.9,302176.0,liar-liar
+204,tt0119643,Meet Joe Black,0,1998,178,"Drama,Fantasy,Romance",7.2,233602.0,meet-joe-black
+205,tt0119654,Men in Black,0,1997,98,"Action,Adventure,Comedy",7.3,552991.0,men-in-black
+206,tt0119664,Metro,0,1997,117,"Action,Comedy,Crime",5.5,27415.0,metro
+207,tt0119675,Mimic,0,1997,105,"Horror,Sci-Fi",6.0,50192.0,mimic
+208,tt0119738,My Best Friend's Wedding,0,1997,105,"Comedy,Drama,Romance",6.3,140055.0,my-best-friend's-wedding
+209,tt0119822,As Good as It Gets,0,1997,139,"Comedy,Drama,Romance",7.7,294260.0,as-good-as-it-gets
+210,tt0120082,Scream 2,0,1997,120,"Horror,Mystery",6.3,178540.0,scream-2
+211,tt0120157,Soldier,0,1998,99,"Action,Drama,Sci-Fi",6.0,56201.0,soldier
+212,tt0120184,Sphere,0,1998,134,"Action,Mystery,Sci-Fi",6.1,105715.0,sphere
+213,tt0120201,Starship Troopers,0,1997,129,"Action,Adventure,Sci-Fi",7.3,288576.0,starship-troopers
+214,tt0120202,State and Main,0,2000,105,"Comedy,Drama",6.7,21264.0,state-and-main
+215,tt0120338,Titanic,0,1997,194,"Drama,Romance",7.9,1130822.0,titanic
+216,tt0120347,Tomorrow Never Dies,0,1997,119,"Action,Adventure,Thriller",6.5,191955.0,tomorrow-never-dies
+217,tt0120399,U Turn,0,1997,125,"Crime,Drama,Thriller",6.7,51839.0,u-turn
+218,tt0120586,American History X,0,1998,119,Drama,8.5,1094140.0,american-history-x
+219,tt0120587,Antz,0,1998,83,"Adventure,Animation,Comedy",6.6,153350.0,antz
+220,tt0120591,Armageddon,0,1998,151,"Action,Adventure,Sci-Fi",6.7,418362.0,armageddon
+221,tt0120601,Being John Malkovich,0,1999,113,"Comedy,Drama,Fantasy",7.8,329681.0,being-john-malkovich
+222,tt0120603,Beloved,0,1998,172,"Drama,History,Horror",6.0,8981.0,beloved
+223,tt0120611,Blade,0,1998,120,"Action,Horror,Sci-Fi",7.1,266424.0,blade
+224,tt0120655,Dogma,0,1999,130,"Adventure,Comedy,Drama",7.3,215617.0,dogma
+225,tt0120660,Enemy of the State,0,1998,132,"Action,Thriller",7.3,240587.0,enemy-of-the-state
+226,tt0120667,Fantastic Four,0,2005,106,"Action,Adventure,Fantasy",5.7,325078.0,fantastic-four
+227,tt0120669,Fear and Loathing in Las Vegas,0,1998,118,"Adventure,Comedy,Drama",7.5,275802.0,fear-and-loathing-in-las-vegas
+228,tt0120684,Gods and Monsters,0,1998,105,"Biography,Drama",7.4,30765.0,gods-and-monsters
+229,tt0120686,Stepmom,0,1998,125,"Comedy,Drama",6.8,66752.0,stepmom
+230,tt0120696,Hard Rain,0,1998,97,"Action,Crime,Drama",5.9,35126.0,hard-rain
+231,tt0120735,"Lock, Stock and Two Smoking Barrels",0,1998,107,"Action,Comedy,Crime",8.2,569910.0,"lock,-stock-and-two-smoking-barrels"
+232,tt0120738,Lost in Space,0,1998,130,"Action,Adventure,Family",5.2,72144.0,lost-in-space
+233,tt0120751,Mighty Joe Young,0,1998,114,"Action,Adventure,Family",5.7,28986.0,mighty-joe-young
+234,tt0120762,Mulan,0,1998,88,"Adventure,Animation,Comedy",7.6,278881.0,mulan
+235,tt0120780,Out of Sight,0,1998,123,"Comedy,Crime,Drama",7.0,91462.0,out-of-sight
+236,tt0120789,Pleasantville,0,1998,124,"Comedy,Drama,Fantasy",7.5,127790.0,pleasantville
+237,tt0120804,Resident Evil,0,2002,100,"Action,Horror,Sci-Fi",6.6,265118.0,resident-evil
+238,tt0120812,Rush Hour,0,1998,98,"Action,Comedy,Crime",7.0,260616.0,rush-hour
+239,tt0120815,Saving Private Ryan,0,1998,169,"Drama,War",8.6,1342594.0,saving-private-ryan
+240,tt0120834,Snow Falling on Cedars,0,1999,127,"Drama,Mystery,Romance",6.8,14109.0,snow-falling-on-cedars
+241,tt0120885,Wag the Dog,0,1997,97,"Comedy,Drama",7.1,83320.0,wag-the-dog
+242,tt0120891,Wild Wild West,0,1999,106,"Action,Comedy,Sci-Fi",4.9,159803.0,wild-wild-west
+243,tt0120903,X-Men,0,2000,104,"Action,Adventure,Sci-Fi",7.4,602697.0,x-men
+244,tt0122529,Henry Fool,0,1997,137,"Comedy,Drama",7.2,7259.0,henry-fool
+245,tt0122690,Ronin,0,1998,122,"Action,Crime,Thriller",7.2,181718.0,ronin
+246,tt0122933,Analyze This,0,1999,103,"Comedy,Crime",6.7,152234.0,analyze-this
+247,tt0123755,Cube,0,1997,90,"Drama,Horror,Mystery",7.2,226476.0,cube
+248,tt0123964,Life,0,1999,108,"Comedy,Crime,Drama",6.7,49855.0,life
+249,tt0124198,Very Bad Things,0,1998,100,"Comedy,Crime,Thriller",6.3,46910.0,very-bad-things
+250,tt0125439,Notting Hill,0,1999,124,"Comedy,Drama,Romance",7.2,301974.0,notting-hill
+251,tt0125664,Man on the Moon,0,1999,118,"Biography,Comedy,Drama",7.4,129853.0,man-on-the-moon
+252,tt0126029,Shrek,0,2001,90,"Adventure,Animation,Comedy",7.9,658071.0,shrek
+253,tt0126886,Election,0,1999,103,"Comedy,Romance",7.3,96031.0,election
+254,tt0128445,Rushmore,0,1998,93,"Comedy,Drama,Romance",7.6,182596.0,rushmore
+255,tt0128853,You've Got Mail,0,1998,119,"Comedy,Drama,Romance",6.7,209026.0,you've-got-mail
+256,tt0129387,There's Something About Mary,0,1998,119,"Comedy,Romance",7.1,306734.0,there's-something-about-mary
+257,tt0130018,I Still Know What You Did Last Summer,0,1998,100,"Horror,Mystery",4.7,73219.0,i-still-know-what-you-did-last-summer
+258,tt0132347,Mystery Men,0,1999,121,"Action,Comedy,Fantasy",6.1,66714.0,mystery-men
+259,tt0132512,At First Sight,0,1999,128,"Drama,Romance",5.9,13672.0,at-first-sight
+260,tt0134084,Scream 3,0,2000,116,"Horror,Mystery",5.6,140020.0,scream-3
+261,tt0134273,8MM,0,1999,123,"Crime,Drama,Mystery",6.5,131803.0,8mm
+262,tt0134847,Pitch Black,0,2000,109,"Action,Horror,Sci-Fi",7.1,236274.0,pitch-black
+263,tt0137523,Fight Club,0,1999,139,Drama,8.8,2028873.0,fight-club
+264,tt0138097,Shakespeare in Love,0,1998,123,"Comedy,Drama,History",7.1,222924.0,shakespeare-in-love
+265,tt0138524,Intolerable Cruelty,0,2003,100,"Comedy,Crime,Romance",6.3,96541.0,intolerable-cruelty
+266,tt0138704,Pi,0,1998,84,"Drama,Horror,Mystery",7.3,176856.0,pi
+267,tt0139134,Cruel Intentions,0,1999,97,"Drama,Romance",6.8,189451.0,cruel-intentions
+268,tt0139414,Lake Placid,0,1999,82,"Action,Comedy,Horror",5.7,60555.0,lake-placid
+269,tt0139654,Training Day,0,2001,122,"Action,Crime,Drama",7.7,423611.0,training-day
+270,tt0140397,Mumford,0,1999,112,"Comedy,Drama",6.8,9207.0,mumford
+271,tt0144084,American Psycho,0,2000,102,"Crime,Drama,Horror",7.6,563288.0,american-psycho
+272,tt0144814,The Rage: Carrie 2,0,1999,104,"Horror,Sci-Fi,Thriller",4.7,16495.0,the-rage:-carrie-2
+273,tt0144964,Highlander: Endgame,0,2000,87,"Action,Adventure,Fantasy",4.6,20273.0,highlander:-endgame
+274,tt0145487,Spider-Man,0,2002,121,"Action,Adventure,Sci-Fi",7.4,792559.0,spider-man
+275,tt0146309,Thirteen Days,0,2000,145,"Drama,History,Thriller",7.3,58320.0,thirteen-days
+276,tt0146882,High Fidelity,0,2000,113,"Comedy,Drama,Music",7.5,177874.0,high-fidelity
+277,tt0147800,10 Things I Hate About You,0,1999,97,"Comedy,Drama,Romance",7.3,328579.0,10-things-i-hate-about-you
+278,tt0151738,Never Been Kissed,0,1999,107,"Comedy,Drama,Romance",6.0,89615.0,never-been-kissed
+279,tt0151804,Office Space,0,1999,89,Comedy,7.7,260064.0,office-space
+280,tt0157503,Drop Dead Gorgeous,0,1999,97,"Comedy,Romance,Thriller",6.6,36845.0,drop-dead-gorgeous
+281,tt0159365,Cold Mountain,0,2003,154,"Adventure,Drama,History",7.2,147268.0,cold-mountain
+282,tt0159382,Croupier,0,1998,94,"Crime,Drama",7.0,21347.0,croupier
+283,tt0159787,Ted,0,1998,85,Comedy,4.9,36.0,ted
+284,tt0161081,What Lies Beneath,0,2000,130,"Drama,Horror,Mystery",6.6,124481.0,what-lies-beneath
+285,tt0162222,Cast Away,0,2000,143,"Adventure,Drama,Romance",7.8,574506.0,cast-away
+286,tt0162346,Ghost World,0,2001,111,"Comedy,Drama",7.3,119739.0,ghost-world
+287,tt0162661,Sleepy Hollow,0,1999,105,"Fantasy,Horror,Mystery",7.3,351794.0,sleepy-hollow
+288,tt0163025,Jurassic Park III,0,2001,92,"Action,Adventure,Sci-Fi",5.9,312310.0,jurassic-park-iii
+289,tt0163187,Runaway Bride,0,1999,116,"Comedy,Romance",5.5,97795.0,runaway-bride
+290,tt0163988,Bringing Out the Dead,0,1999,121,"Drama,Thriller",6.8,68347.0,bringing-out-the-dead
+291,tt0164052,Hollow Man,0,2000,112,"Action,Horror,Sci-Fi",5.8,130029.0,hollow-man
+292,tt0164181,Stir of Echoes,0,1999,99,"Horror,Mystery,Thriller",6.9,80656.0,stir-of-echoes
+293,tt0165710,Detroit Rock City,0,1999,95,"Comedy,Music",6.8,38992.0,detroit-rock-city
+294,tt0166110,Bones,0,2001,96,"Crime,Horror",4.3,7535.0,bones
+295,tt0166276,Monkeybone,0,2001,93,"Animation,Comedy,Fantasy",4.7,17760.0,monkeybone
+296,tt0166943,Music of the Heart,0,1999,124,"Drama,Music",6.8,12635.0,music-of-the-heart
+297,tt0167190,Hellboy,0,2004,122,"Action,Adventure,Fantasy",6.8,322940.0,hellboy
+298,tt0167456,Thunderbirds,0,2004,95,"Action,Adventure,Comedy",4.2,13836.0,thunderbirds
+299,tt0169547,American Beauty,0,1999,122,Drama,8.4,1129984.0,american-beauty
+300,tt0171580,Nurse Betty,0,2000,110,"Comedy,Crime,Drama",6.3,35103.0,nurse-betty
+301,tt0173716,Cecil B. Demented,0,2000,87,"Comedy,Crime,Thriller",6.2,15733.0,cecil-b.-demented
+302,tt0174480,Autumn in New York,0,2000,103,"Drama,Romance",5.6,26337.0,autumn-in-new-york
+303,tt0175526,Cherry Falls,0,2000,92,"Horror,Mystery,Thriller",5.2,13529.0,cherry-falls
+304,tt0175880,Magnolia,0,1999,188,Drama,8.0,307386.0,magnolia
+305,tt0178868,Ringu,0,1998,96,"Horror,Mystery",7.2,68830.0,ringu
+306,tt0179626,15 Minutes,0,2001,120,"Action,Crime,Drama",6.1,50204.0,15-minutes
+307,tt0181689,Minority Report,0,2002,145,"Action,Crime,Mystery",7.7,539057.0,minority-report
+308,tt0181865,Traffic,0,2000,147,"Crime,Drama,Thriller",7.6,205386.0,traffic
+309,tt0183523,Mission to Mars,0,2000,114,"Adventure,Sci-Fi,Thriller",5.6,73002.0,mission-to-mars
+310,tt0183649,Phone Booth,0,2002,81,"Crime,Thriller",7.1,264844.0,phone-booth
+311,tt0184858,Reindeer Games,0,2000,104,"Action,Adventure,Crime",5.8,39758.0,reindeer-games
+312,tt0185014,Wonder Boys,0,2000,107,"Comedy,Drama",7.2,63995.0,wonder-boys
+313,tt0185431,Little Nicky,0,2000,90,"Comedy,Fantasy",5.3,104170.0,little-nicky
+314,tt0186151,Frequency,0,2000,118,"Crime,Drama,Mystery",7.4,107016.0,frequency
+315,tt0187738,Blade II,0,2002,117,"Action,Horror,Sci-Fi",6.7,213944.0,blade-ii
+316,tt0188453,Birthday Girl,0,2001,93,"Comedy,Crime,Thriller",6.0,25447.0,birthday-girl
+317,tt0192947,12,0,2003,124,"Comedy,Music",7.5,50.0,12
+318,tt0193365,Orphan,0,2001,99,Drama,7.2,28.0,orphan
+319,tt0195685,Erin Brockovich,0,2000,131,"Biography,Drama",7.4,193268.0,erin-brockovich
+320,tt0195945,Next Friday,0,2000,98,Comedy,6.1,40100.0,next-friday
+321,tt0196158,Ticker,0,2001,92,"Action,Crime,Thriller",3.5,7414.0,ticker
+322,tt0199753,Red Planet,0,2000,106,"Action,Sci-Fi,Thriller",5.7,57402.0,red-planet
+323,tt0203230,You Can Count on Me,0,2000,111,Drama,7.5,29785.0,you-can-count-on-me
+324,tt0206275,Save the Last Dance,0,2001,112,"Drama,Music,Romance",6.2,61342.0,save-the-last-dance
+325,tt0208092,Snatch,0,2000,104,"Comedy,Crime",8.3,834847.0,snatch
+326,tt0211443,Jason X,0,2001,92,"Action,Horror,Sci-Fi",4.4,55450.0,jason-x
+327,tt0213149,Pearl Harbor,0,2001,183,"Action,Drama,History",6.2,327411.0,pearl-harbor
+328,tt0215545,Bamboozled,0,2000,135,"Comedy,Drama,Music",6.6,11504.0,bamboozled
+329,tt0217505,Gangs of New York,0,2002,167,"Crime,Drama",7.5,432890.0,gangs-of-new-york
+330,tt0218817,Antitrust,0,2001,108,"Action,Crime,Drama",6.1,29283.0,antitrust
+331,tt0219822,Human Nature,0,2001,96,"Comedy,Drama",6.4,18238.0,human-nature
+332,tt0221027,Blow,0,2001,124,"Biography,Crime,Drama",7.5,254522.0,blow
+333,tt0221069,Chasing Sleep,0,2000,104,"Drama,Horror,Mystery",6.2,3485.0,chasing-sleep
+334,tt0227005,Made,0,2001,95,"Comedy,Crime,Drama",6.3,18496.0,made
+335,tt0233469,Collateral Damage,0,2002,108,"Action,Drama,Thriller",5.5,74624.0,collateral-damage
+336,tt0238546,Queen of the Damned,0,2002,101,"Drama,Fantasy,Horror",5.2,55537.0,queen-of-the-damned
+337,tt0240772,Ocean's Eleven,0,2001,116,"Crime,Thriller",7.7,556869.0,ocean's-eleven
+338,tt0244000,American Outlaws,0,2001,94,"Action,Western",5.9,16349.0,american-outlaws
+339,tt0244244,Swordfish,0,2001,99,"Action,Crime,Thriller",6.5,185316.0,swordfish
+340,tt0247425,In the Bedroom,0,2001,131,"Crime,Drama",7.4,40225.0,in-the-bedroom
+341,tt0248667,Ali,0,2001,157,"Biography,Drama,Sport",6.7,98750.0,ali
+342,tt0250081,Storytelling,0,2001,87,"Comedy,Drama,Romance",6.8,17676.0,storytelling
+343,tt0250494,Legally Blonde,0,2001,96,"Comedy,Romance",6.4,209948.0,legally-blonde
+344,tt0251160,John Q,0,2002,116,"Crime,Drama,Thriller",7.0,131883.0,john-q
+345,tt0251736,House of 1000 Corpses,0,2003,89,Horror,6.0,84401.0,house-of-1000-corpses
+346,tt0253754,Star Trek: Nemesis,0,2002,116,"Action,Adventure,Sci-Fi",6.4,78302.0,star-trek:-nemesis
+347,tt0259324,Ghost Rider,0,2007,110,"Action,Fantasy,Thriller",5.2,235236.0,ghost-rider
+348,tt0259711,Vanilla Sky,0,2001,136,"Fantasy,Mystery,Romance",6.9,261325.0,vanilla-sky
+349,tt0260414,Taking Sides,0,2001,108,"Drama,Music,War",7.1,3331.0,taking-sides
+350,tt0261392,Jay and Silent Bob Strike Back,0,2001,104,Comedy,6.8,153773.0,jay-and-silent-bob-strike-back
+351,tt0264395,Basic,0,2003,98,"Action,Crime,Drama",6.4,62563.0,basic
+352,tt0264464,Catch Me If You Can,0,2002,141,"Biography,Crime,Drama",8.1,935338.0,catch-me-if-you-can
+353,tt0266452,Death to Smoochy,0,2002,109,"Comedy,Crime,Drama",6.3,40290.0,death-to-smoochy
+354,tt0266543,Finding Nemo,0,2003,100,"Adventure,Animation,Comedy",8.2,1014602.0,finding-nemo
+355,tt0266915,Rush Hour 2,0,2001,90,"Action,Comedy,Crime",6.6,214661.0,rush-hour-2
+356,tt0270288,Confessions of a Dangerous Mind,0,2002,113,"Biography,Comedy,Crime",7.0,87706.0,confessions-of-a-dangerous-mind
+357,tt0271367,Eight Legged Freaks,0,2002,99,"Action,Adventure,Comedy",5.5,56886.0,eight-legged-freaks
+358,tt0272338,Punch-Drunk Love,0,2002,95,"Comedy,Drama,Romance",7.3,161471.0,punch-drunk-love
+359,tt0277027,I Am Sam,0,2001,132,Drama,7.6,148995.0,i-am-sam
+360,tt0278435,Enough,0,2002,115,"Crime,Drama,Thriller",5.7,43190.0,enough
+361,tt0278504,Insomnia,0,2002,118,"Drama,Mystery,Thriller",7.2,290474.0,insomnia
+362,tt0283632,They,0,2002,89,"Horror,Mystery,Thriller",4.8,12863.0,they
+363,tt0286106,Signs,0,2002,106,"Drama,Mystery,Sci-Fi",6.8,356405.0,signs
+364,tt0288477,Ghost Ship,0,2002,91,Horror,5.5,99735.0,ghost-ship
+365,tt0289848,Analyze That,0,2002,96,"Comedy,Crime",5.9,85279.0,analyze-that
+366,tt0295701,xXx,0,2002,124,"Action,Adventure,Thriller",5.8,178764.0,xxx
+367,tt0305206,American Splendor,0,2003,101,"Biography,Comedy,Drama",7.4,49689.0,american-splendor
+368,tt0306685,Cradle 2 the Grave,0,2003,101,"Action,Crime,Drama",5.8,44705.0,cradle-2-the-grave
+369,tt0307879,Burning Annie,0,2004,95,"Comedy,Drama,Romance",5.6,282.0,burning-annie
+370,tt0307901,25th Hour,0,2002,135,Drama,7.6,177143.0,25th-hour
+371,tt0307987,Bad Santa,0,2003,92,"Comedy,Crime,Drama",7.1,142824.0,bad-santa
+372,tt0309593,Final Destination 2,0,2003,90,"Horror,Thriller",6.2,163388.0,final-destination-2
+373,tt0310910,Confidence,0,2003,97,"Crime,Thriller",6.6,34190.0,confidence
+374,tt0310924,Crime Spree,0,2003,105,"Action,Comedy,Crime",6.5,5458.0,crime-spree
+375,tt0315327,Bruce Almighty,0,2003,101,"Comedy,Fantasy",6.7,394644.0,bruce-almighty
+376,tt0324127,Suspect Zero,0,2004,99,"Crime,Horror,Mystery",5.8,19674.0,suspect-zero
+377,tt0327554,Catwoman,0,2004,104,"Action,Crime,Fantasy",3.4,118032.0,catwoman
+378,tt0327597,Coraline,0,2009,100,"Animation,Drama,Family",7.7,218561.0,coraline
+379,tt0328099,Malibu's Most Wanted,0,2003,86,"Comedy,Crime",5.2,19715.0,malibu's-most-wanted
+380,tt0328107,Man on Fire,0,2004,146,"Action,Crime,Drama",7.7,355729.0,man-on-fire
+381,tt0329101,Freddy vs. Jason,0,2003,97,"Action,Horror",5.7,117770.0,freddy-vs.-jason
+382,tt0333766,Garden State,0,2004,102,"Comedy,Drama,Romance",7.4,214825.0,garden-state
+383,tt0335266,Lost in Translation,0,2003,102,"Comedy,Drama",7.7,443864.0,lost-in-translation
+384,tt0337741,Something's Gotta Give,0,2003,128,"Comedy,Drama,Romance",6.7,120249.0,something's-gotta-give
+385,tt0337921,Cellular,0,2004,94,"Action,Crime,Thriller",6.5,99739.0,cellular
+386,tt0338013,Eternal Sunshine of the Spotless Mind,0,2004,108,"Drama,Romance,Sci-Fi",8.3,978475.0,eternal-sunshine-of-the-spotless-mind
+387,tt0338075,Grand Theft Parsons,0,2003,88,"Adventure,Comedy,Drama",6.0,3564.0,grand-theft-parsons
+388,tt0340163,Hostage,0,2005,113,"Action,Crime,Drama",6.5,110086.0,hostage
+389,tt0343818,"I, Robot",0,2004,115,"Action,Mystery,Sci-Fi",7.1,528938.0,"i,-robot"
+390,tt0348836,Gothika,0,2003,98,"Horror,Mystery,Thriller",5.8,112034.0,gothika
+391,tt0349903,Ocean's Twelve,0,2004,125,"Crime,Thriller",6.4,382237.0,ocean's-twelve
+392,tt0351977,Walking Tall,0,2004,86,"Action,Crime",6.2,75312.0,walking-tall
+393,tt0359013,Blade: Trinity,0,2004,113,"Action,Horror,Sci-Fi",5.8,175052.0,blade:-trinity
+394,tt0360486,Constantine,0,2005,121,"Action,Fantasy,Horror",7.0,334266.0,constantine
+395,tt0360717,King Kong,0,2005,187,"Action,Adventure,Drama",7.2,415604.0,king-kong
+396,tt0361748,Inglourious Basterds,0,2009,153,"Adventure,Drama,War",8.3,1389860.0,inglourious-basterds
+397,tt0363282,New York Minute,0,2004,91,"Comedy,Crime,Family",4.9,23286.0,new-york-minute
+398,tt0364045,Taking Lives,0,2004,103,"Crime,Mystery,Thriller",6.2,88910.0,taking-lives
+399,tt0365737,Syriana,0,2005,128,"Drama,Thriller",6.9,129646.0,syriana
+400,tt0365929,Whiteout,0,2009,101,"Action,Crime,Mystery",5.5,38611.0,whiteout
+401,tt0366548,Happy Feet,0,2006,108,"Adventure,Animation,Comedy",6.4,182261.0,happy-feet
+402,tt0366920,Pride and Prejudice,0,2003,104,"Comedy,Romance",5.0,2613.0,pride-and-prejudice
+403,tt0369226,Alone in the Dark,0,2005,99,"Action,Horror,Sci-Fi",2.4,45445.0,alone-in-the-dark
+404,tt0369339,Collateral,0,2004,120,"Action,Crime,Drama",7.5,389394.0,collateral
+405,tt0371246,Spanglish,0,2004,131,"Comedy,Drama,Romance",6.4,83279.0,spanglish
+406,tt0374900,Napoleon Dynamite,0,2004,96,Comedy,6.9,214108.0,napoleon-dynamite
+407,tt0375063,Sideways,0,2004,127,"Comedy,Drama,Romance",7.5,189033.0,sideways
+408,tt0376874,Sexual Life,0,2004,96,"Comedy,Drama",5.0,969.0,sexual-life
+409,tt0379725,Capote,0,2005,114,"Biography,Crime,Drama",7.3,131747.0,capote
+410,tt0379786,Serenity,0,2005,119,"Action,Adventure,Sci-Fi",7.8,293518.0,serenity
+411,tt0383028,"Synecdoche, New York",0,2008,124,Drama,7.5,89737.0,"synecdoche,-new-york"
+412,tt0383574,Pirates of the Caribbean: Dead Man's Chest,0,2006,151,"Action,Adventure,Fantasy",7.3,694883.0,pirates-of-the-caribbean:-dead-man's-chest
+413,tt0387564,Saw,0,2004,103,"Horror,Mystery,Thriller",7.6,409507.0,saw
+414,tt0395169,Hotel Rwanda,0,2004,121,"Biography,Drama,History",8.1,350514.0,hotel-rwanda
+415,tt0399295,Lord of War,0,2005,122,"Crime,Drama",7.6,310471.0,lord-of-war
+416,tt0402910,Chaos,0,2005,106,"Action,Crime,Drama",6.4,54593.0,chaos
+417,tt0403407,Perfect Creature,0,2006,90,"Action,Drama,Fantasy",5.3,5529.0,perfect-creature
+418,tt0403702,Youth in Revolt,0,2009,90,"Comedy,Drama,Romance",6.5,74148.0,youth-in-revolt
+419,tt0405296,A Scanner Darkly,0,2006,100,"Animation,Crime,Drama",7.0,110836.0,a-scanner-darkly
+420,tt0407304,War of the Worlds,0,2005,116,"Action,Adventure,Sci-Fi",6.5,438554.0,war-of-the-worlds
+421,tt0408236,Sweeney Todd: The Demon Barber of Fleet Street,0,2007,116,"Drama,Horror,Musical",7.3,361207.0,sweeney-todd:-the-demon-barber-of-fleet-street
+422,tt0409459,Watchmen,0,2009,162,"Action,Drama,Mystery",7.6,540360.0,watchmen
+423,tt0409847,Cowboys & Aliens,0,2011,119,"Action,Sci-Fi,Thriller",6.0,218477.0,cowboys-&-aliens
+424,tt0413267,Shrek the Third,0,2007,93,"Adventure,Animation,Comedy",6.1,300046.0,shrek-the-third
+425,tt0414055,Elizabeth: The Golden Age,0,2007,114,"Biography,Drama,History",6.8,70932.0,elizabeth:-the-golden-age
+426,tt0416658,Crazylove,0,2005,95,"Comedy,Drama,Romance",6.0,403.0,crazylove
+427,tt0417217,Two for the Money,0,2005,122,"Crime,Drama,Sport",6.2,45760.0,two-for-the-money
+428,tt0417385,12 and Holding,0,2005,95,Drama,7.4,6923.0,12-and-holding
+429,tt0417907,Little Athens,0,2005,103,"Comedy,Crime,Drama",5.4,984.0,little-athens
+430,tt0418819,Land of the Dead,0,2005,93,"Horror,Sci-Fi,Thriller",6.2,95927.0,land-of-the-dead
+431,tt0421090,Zerophilia,0,2005,90,"Comedy,Romance",6.0,2364.0,zerophilia
+432,tt0425055,Game 6,0,2005,87,"Comedy,Drama,Sport",5.7,2699.0,game-6
+433,tt0425151,Jimmy and Judy,0,2006,99,"Crime,Drama,Thriller",5.9,1593.0,jimmy-and-judy
+434,tt0425253,Mini's First Time,0,2006,91,"Comedy,Crime,Drama",5.8,8367.0,mini's-first-time
+435,tt0430357,Miami Vice,0,2006,132,"Action,Adventure,Crime",6.0,115857.0,miami-vice
+436,tt0434409,V for Vendetta,0,2005,132,"Action,Drama,Sci-Fi",8.2,1096875.0,v-for-vendetta
+437,tt0435705,Next,0,2007,96,"Action,Sci-Fi,Thriller",6.2,157006.0,next
+438,tt0438488,Terminator Salvation,0,2009,115,"Action,Sci-Fi",6.5,357105.0,terminator-salvation
+439,tt0439815,Slither,0,2006,95,"Comedy,Horror,Sci-Fi",6.5,80916.0,slither
+440,tt0441773,Kung Fu Panda,0,2008,92,"Action,Adventure,Animation",7.6,454616.0,kung-fu-panda
+441,tt0443272,Lincoln,0,2012,150,"Biography,Drama,History",7.3,257624.0,lincoln
+442,tt0448157,Hancock,0,2008,92,"Action,Drama,Fantasy",6.4,472337.0,hancock
+443,tt0449467,Babel,0,2006,143,Drama,7.5,300022.0,babel
+444,tt0450405,Cirque du Freak: The Vampire's Assistant,0,2009,119,"Action,Adventure,Fantasy",5.8,44870.0,cirque-du-freak:-the-vampire's-assistant
+445,tt0451279,Wonder Woman,0,2017,141,"Action,Adventure,Fantasy",7.4,635365.0,wonder-woman
+446,tt0452623,Gone Baby Gone,0,2007,114,"Crime,Drama,Mystery",7.6,268685.0,gone-baby-gone
+447,tt0453556,TMNT,0,2007,87,"Action,Adventure,Animation",6.2,64024.0,tmnt
+448,tt0453562,42,0,2013,128,"Biography,Drama,Sport",7.5,93208.0,42
+449,tt0454876,Life of Pi,0,2012,127,"Adventure,Drama,Fantasy",7.9,615727.0,life-of-pi
+450,tt0455538,How to Lose Friends & Alienate People,0,2008,110,"Biography,Comedy,Drama",6.4,69273.0,how-to-lose-friends-&-alienate-people
+451,tt0458525,X-Men Origins: Wolverine,0,2009,107,"Action,Sci-Fi",6.6,494519.0,x-men-origins:-wolverine
+452,tt0462200,Black Snake Moan,0,2006,116,"Drama,Music",6.9,63365.0,black-snake-moan
+453,tt0466893,Margaret,0,2011,150,Drama,6.5,17285.0,margaret
+454,tt0467197,Max Payne,0,2008,100,"Action,Adventure,Crime",5.3,125571.0,max-payne
+455,tt0467406,Juno,0,2007,96,"Comedy,Drama",7.5,513730.0,juno
+456,tt0470752,Ex Machina,0,2014,108,"Drama,Sci-Fi,Thriller",7.7,524553.0,ex-machina
+457,tt0472033,9,0,2009,79,"Action,Adventure,Animation",7.0,138669.0,9
+458,tt0475394,Smokin' Aces,0,2006,109,"Action,Comedy,Crime",6.6,144077.0,smokin'-aces
+459,tt0477348,No Country for Old Men,0,2007,122,"Crime,Drama,Thriller",8.2,938677.0,no-country-for-old-men
+460,tt0478311,Knocked Up,0,2007,129,"Comedy,Drama,Romance",6.9,365325.0,knocked-up
+461,tt0479884,Crank,0,2006,88,"Action,Crime,Thriller",6.9,246392.0,crank
+462,tt0480687,Hall Pass,0,2011,105,"Comedy,Romance",5.9,125010.0,hall-pass
+463,tt0486051,Wind Chill,0,2007,91,"Adventure,Drama,Horror",5.8,23134.0,wind-chill
+464,tt0486822,Disturbia,0,2007,105,"Crime,Drama,Mystery",6.8,233010.0,disturbia
+465,tt0486946,Wild Hogs,0,2007,100,"Action,Adventure,Comedy",5.8,117913.0,wild-hogs
+466,tt0488120,Fracture,0,2007,113,"Crime,Drama,Thriller",7.2,202139.0,fracture
+467,tt0493464,Wanted,0,2008,110,"Action,Crime,Thriller",6.7,382138.0,wanted
+468,tt0498399,We Own the Night,0,2007,117,"Action,Crime,Drama",6.8,88314.0,we-own-the-night
+469,tt0499549,Avatar,0,2009,162,"Action,Adventure,Fantasy",7.8,1189155.0,avatar
+470,tt0757361,Margot at the Wedding,0,2007,93,"Comedy,Drama",6.0,20345.0,margot-at-the-wedding
+471,tt0758758,Into the Wild,0,2007,148,"Adventure,Biography,Drama",8.1,610895.0,into-the-wild
+472,tt0765429,American Gangster,0,2007,157,"Biography,Crime,Drama",7.8,418250.0,american-gangster
+473,tt0765443,Eastern Promises,0,2007,100,"Crime,Drama,Thriller",7.6,239570.0,eastern-promises
+474,tt0780504,Drive,0,2011,100,"Action,Drama",7.8,616235.0,drive
+475,tt0790636,Dallas Buyers Club,0,2013,117,"Biography,Drama",7.9,476526.0,dallas-buyers-club
+476,tt0790686,Mirrors,0,2008,110,"Horror,Mystery",6.1,106765.0,mirrors
+477,tt0795351,Case 39,0,2009,109,"Horror,Mystery,Thriller",6.2,84941.0,case-39
+478,tt0795368,Death at a Funeral,0,2007,90,Comedy,7.3,114973.0,death-at-a-funeral
+479,tt0796366,Star Trek,0,2009,127,"Action,Adventure,Sci-Fi",7.9,597355.0,star-trek
+480,tt0800240,Deception,0,2008,107,"Crime,Drama,Mystery",6.0,39132.0,deception
+481,tt0800320,Clash of the Titans,0,2010,106,"Action,Adventure,Fantasy",5.8,279971.0,clash-of-the-titans
+482,tt0800369,Thor,0,2011,115,"Action,Adventure,Fantasy",7.0,814882.0,thor
+483,tt0808151,Angels & Demons,0,2009,138,"Action,Mystery,Thriller",6.7,288684.0,angels-&-demons
+484,tt0811080,Speed Racer,0,2008,135,"Action,Adventure,Comedy",6.0,73073.0,speed-racer
+485,tt0815236,She's Out of My League,0,2010,104,"Comedy,Romance",6.4,135983.0,she's-out-of-my-league
+486,tt0816692,Interstellar,0,2014,169,"Adventure,Drama,Sci-Fi",8.6,1721876.0,interstellar
+487,tt0822832,Marley & Me,0,2008,111,"Comedy,Drama,Family",7.0,156204.0,marley-&-me
+488,tt0822847,Priest,0,2011,87,"Action,Adventure,Fantasy",5.7,119281.0,priest
+489,tt0824747,Changeling,0,2008,141,"Biography,Crime,Drama",7.8,252184.0,changeling
+490,tt0829193,Honeydripper,0,2007,124,"Crime,Drama,History",6.7,2054.0,honeydripper
+491,tt0829482,Superbad,0,2007,113,Comedy,7.6,561390.0,superbad
+492,tt0837563,Pet Sematary,0,2019,101,"Horror,Mystery,Thriller",5.7,90770.0,pet-sematary
+493,tt0838247,After.Life,0,2009,104,"Drama,Mystery,Thriller",5.9,38440.0,after.life
+494,tt0839980,Semi-Pro,0,2008,91,"Comedy,Sport",5.8,81787.0,semi-pro
+495,tt0857295,Timber Falls,0,2007,100,"Horror,Thriller",5.2,6116.0,timber-falls
+496,tt0862846,Sunshine Cleaning,0,2008,91,"Comedy,Drama",6.8,71699.0,sunshine-cleaning
+497,tt0875034,Nine,0,2009,118,"Drama,Musical,Romance",5.8,43719.0,nine
+498,tt0881891,All About Steve,0,2009,99,"Comedy,Romance",4.8,41886.0,all-about-steve
+499,tt0887261,Hellraiser,0,2022,\N,"Horror,Thriller",,,hellraiser
+500,tt0887883,Burn After Reading,0,2008,96,"Comedy,Crime,Drama",7.0,327366.0,burn-after-reading
+501,tt0887971,While She Was Out,0,2008,86,"Crime,Drama,Thriller",4.7,6869.0,while-she-was-out
+502,tt0892769,How to Train Your Dragon,0,2010,98,"Action,Adventure,Animation",8.1,717769.0,how-to-train-your-dragon
+503,tt0910936,Pineapple Express,0,2008,111,"Action,Comedy,Crime",6.9,333517.0,pineapple-express
+504,tt0914837,44 Inch Chest,0,2009,95,"Crime,Drama",5.8,6848.0,44-inch-chest
+505,tt0929632,Precious,0,2009,110,Drama,7.3,109878.0,precious
+506,tt0942385,Tropic Thunder,0,2008,107,"Action,Comedy,War",7.0,404839.0,tropic-thunder
+507,tt0945513,Source Code,0,2011,93,"Action,Drama,Mystery",7.5,510864.0,source-code
+508,tt0947798,Black Swan,0,2010,108,"Drama,Thriller",8.0,744533.0,black-swan
+509,tt0959337,Revolutionary Road,0,2008,119,"Drama,Romance",7.3,210082.0,revolutionary-road
+510,tt0974661,17 Again,0,2009,102,"Comedy,Drama,Fantasy",6.4,196611.0,17-again
+511,tt0975645,Hitchcock,0,2012,98,"Biography,Drama,Romance",6.8,75523.0,hitchcock
+512,tt0977855,Fair Game,0,2010,108,"Biography,Drama,Thriller",6.8,48806.0,fair-game
+513,tt0978759,Frozen River,0,2008,97,"Crime,Drama",7.1,25623.0,frozen-river
+514,tt0985694,Machete,0,2010,105,"Action,Crime,Thriller",6.6,196314.0,machete
+515,tt0985699,Valkyrie,0,2008,121,"Drama,History,Thriller",7.1,240249.0,valkyrie
+516,tt0986263,Surrogates,0,2009,89,"Action,Sci-Fi,Thriller",6.3,174164.0,surrogates
+517,tt0988045,Sherlock Holmes,0,2009,128,"Action,Adventure,Mystery",7.6,619373.0,sherlock-holmes
+518,tt0993842,Hanna,0,2011,111,"Action,Adventure,Drama",6.8,197469.0,hanna
+519,tt1024648,Argo,0,2012,120,"Biography,Drama,Thriller",7.7,604699.0,argo
+520,tt1027718,Wall Street: Money Never Sleeps,0,2010,133,Drama,6.2,102157.0,wall-street:-money-never-sleeps
+521,tt1032755,RocknRolla,0,2008,114,"Action,Crime,Thriller",7.3,248497.0,rocknrolla
+522,tt1034032,Gamer,0,2009,95,"Action,Sci-Fi,Thriller",5.7,134087.0,gamer
+523,tt1038686,Legion,0,2010,100,"Action,Fantasy,Horror",5.2,104177.0,legion
+524,tt1045658,Silver Linings Playbook,0,2012,122,"Comedy,Drama,Romance",7.7,697463.0,silver-linings-playbook
+525,tt1045772,I Love You Phillip Morris,0,2009,102,"Biography,Comedy,Crime",6.6,95233.0,i-love-you-phillip-morris
+526,tt1045778,Year One,0,2009,97,Comedy,4.9,97169.0,year-one
+527,tt1045817,Blue Velvet,0,1970,57,"Documentary,Drama",7.1,26.0,blue-velvet
+528,tt1046173,G.I. Joe: The Rise of Cobra,0,2009,118,"Action,Adventure,Sci-Fi",5.7,207332.0,g.i.-joe:-the-rise-of-cobra
+529,tt1059786,Eagle Eye,0,2008,118,"Action,Mystery,Thriller",6.6,185323.0,eagle-eye
+530,tt1065073,Boyhood,0,2014,165,Drama,7.9,350213.0,boyhood
+531,tt10928982,Do the Right Thing,0,2019,\N,Drama,,,do-the-right-thing
+532,tt1104001,Tron,0,2010,125,"Action,Adventure,Sci-Fi",6.8,330403.0,tron
+533,tt1104126,Shifty,0,2008,85,"Crime,Drama,Thriller",6.5,3022.0,shifty
+534,tt1126590,Big Eyes,0,2014,106,"Biography,Crime,Drama",7.0,91549.0,big-eyes
+535,tt1126591,Burlesque,0,2010,119,"Drama,Music,Musical",6.4,84676.0,burlesque
+536,tt1127180,Drag Me to Hell,0,2009,99,Horror,6.6,198875.0,drag-me-to-hell
+537,tt11861230,Beauty and the Beast,0,2017,\N,"Comedy,Drama,Family",,,beauty-and-the-beast
+538,tt1186367,Ninja Assassin,0,2009,99,"Action,Thriller",6.3,71602.0,ninja-assassin
+539,tt1193138,Up in the Air,0,2009,109,"Comedy,Drama,Romance",7.4,331215.0,up-in-the-air
+540,tt11941222,Willow,0,\N,\N,Drama,,,willow
+541,tt1194263,Get Low,0,2009,103,"Drama,Mystery",7.0,23146.0,get-low
+542,tt1201167,Funny People,0,2009,146,"Comedy,Drama",6.3,118481.0,funny-people
+543,tt1216475,Cars 2,0,2011,106,"Adventure,Animation,Comedy",6.2,181081.0,cars-2
+544,tt1233334,Pariah,0,2011,86,Drama,7.2,6914.0,pariah
+545,tt1235529,Highlander,0,\N,\N,"Action,Fantasy,Sci-Fi",,,highlander
+546,tt1242432,I Spit on Your Grave,0,2010,108,"Horror,Thriller",6.2,82760.0,i-spit-on-your-grave
+547,tt1284575,Bad Teacher,0,2011,92,"Comedy,Romance",5.6,201484.0,bad-teacher
+548,tt1311071,Kill Your Darlings,0,2013,104,"Biography,Drama,Romance",6.4,37827.0,kill-your-darlings
+549,tt1334512,Arthur,0,2011,110,"Comedy,Romance",5.7,51809.0,arthur
+550,tt1340800,Tinker Tailor Soldier Spy,0,2011,127,"Drama,Mystery,Thriller",7.0,199318.0,tinker-tailor-soldier-spy
+551,tt1355644,Passengers,0,2016,116,"Drama,Romance,Sci-Fi",7.0,390153.0,passengers
+552,tt1365050,Beasts of No Nation,0,2015,137,"Drama,War",7.7,80055.0,beasts-of-no-nation
+553,tt1396484,It,0,2017,135,Horror,7.3,514617.0,it
+554,tt1398426,Straight Outta Compton,0,2015,147,"Biography,Drama,History",7.8,196746.0,straight-outta-compton
+555,tt1401152,Unknown,0,2011,113,"Action,Mystery,Thriller",6.8,259474.0,unknown
+556,tt1403177,Hesher,0,2010,106,Drama,6.9,52138.0,hesher
+557,tt1403865,True Grit,0,2010,110,"Drama,Western",7.6,333075.0,true-grit
+558,tt1403981,Remember Me,0,2010,113,"Drama,Romance",7.1,145420.0,remember-me
+559,tt1405365,Celeste & Jesse Forever,0,2012,92,"Comedy,Drama,Romance",6.6,31335.0,celeste-&-jesse-forever
+560,tt1411238,No Strings Attached,0,2011,108,"Comedy,Romance",6.2,226736.0,no-strings-attached
+561,tt1438176,Fright Night,0,2011,106,"Comedy,Horror",6.4,104867.0,fright-night
+562,tt1446192,Rise of the Guardians,0,2012,97,"Action,Adventure,Animation",7.2,170955.0,rise-of-the-guardians
+563,tt1446714,Prometheus,0,2012,124,"Adventure,Mystery,Sci-Fi",7.0,597653.0,prometheus
+564,tt1464540,I Am Number Four,0,2011,111,"Action,Adventure,Sci-Fi",6.1,236121.0,i-am-number-four
+565,tt1477837,Cedar Rapids,0,2011,87,Comedy,6.3,37700.0,cedar-rapids
+566,tt1478338,Bridesmaids,0,2011,125,"Comedy,Romance",6.8,287221.0,bridesmaids
+567,tt14786948,Master and Commander,0,\N,\N,\N,,,master-and-commander
+568,tt1483013,Oblivion,0,2013,124,"Action,Adventure,Sci-Fi",7.0,512714.0,oblivion
+569,tt14844672,Day of the dead,0,2018,52,Documentary,,,day-of-the-dead
+570,tt1486185,Red Riding Hood,0,2011,100,"Fantasy,Horror,Mystery",5.4,111540.0,red-riding-hood
+571,tt1486190,Tamara Drewe,0,2010,107,"Comedy,Drama,Romance",6.2,21748.0,tamara-drewe
+572,tt1502404,Drive Angry,0,2011,104,"Action,Fantasy,Thriller",5.4,98162.0,drive-angry
+573,tt1502407,Halloween,0,2018,106,"Crime,Horror,Thriller",6.5,145015.0,halloween
+574,tt1521197,Anonymous,0,2011,130,"Drama,Thriller",6.8,40712.0,anonymous
+575,tt1525366,Grabbers,0,2012,94,"Action,Adventure,Comedy",6.2,18282.0,grabbers
+576,tt15258268,Twin Peaks,0,1977,50,\N,9.0,7.0,twin-peaks
+577,tt15268926,Moon,0,\N,\N,Thriller,,,moon
+578,tt1532503,Beginners,0,2010,105,"Comedy,Drama,Romance",7.2,91485.0,beginners
+579,tt1542344,127 Hours,0,2010,94,"Biography,Drama",7.6,370447.0,127-hours
+580,tt1583420,Larry Crowne,0,2011,98,"Comedy,Drama,Romance",6.1,67007.0,larry-crowne
+581,tt1586752,Machine Gun Preacher,0,2011,129,"Action,Biography,Crime",6.7,65710.0,machine-gun-preacher
+582,tt1591095,Insidious,0,2010,103,"Horror,Mystery,Thriller",6.8,300311.0,insidious
+583,tt1602613,Only God Forgives,0,2013,90,"Action,Crime,Drama",5.7,111731.0,only-god-forgives
+584,tt1602620,Amour,0,2012,127,Drama,7.9,98917.0,amour
+585,tt1605783,Midnight in Paris,0,2011,94,"Comedy,Fantasy,Romance",7.7,415357.0,midnight-in-paris
+586,tt1606392,Win Win,0,2011,106,"Comedy,Drama,Sport",7.1,53784.0,win-win
+587,tt1615147,Margin Call,0,2011,107,"Drama,Thriller",7.1,127164.0,margin-call
+588,tt1646971,How to Train Your Dragon 2,0,2014,102,"Action,Adventure,Animation",7.8,326724.0,how-to-train-your-dragon-2
+589,tt1650062,Super 8,0,2011,112,"Action,Mystery,Sci-Fi",7.0,350674.0,super-8
+590,tt1655420,My Week with Marilyn,0,2011,99,"Biography,Drama",6.9,86480.0,my-week-with-marilyn
+591,tt1657507,Colombiana,0,2011,108,"Action,Drama,Thriller",6.4,100526.0,colombiana
+592,tt1675192,Take Shelter,0,2011,121,"Drama,Sci-Fi,Thriller",7.3,99544.0,take-shelter
+593,tt1677731,Labor of Love,0,\N,\N,"Drama,Mystery,Romance",,,labor-of-love
+594,tt1690953,Despicable Me 2,0,2013,98,"Adventure,Animation,Comedy",7.3,390838.0,despicable-me-2
+595,tt1706593,Chronicle,0,2012,89,"Action,Drama,Sci-Fi",7.0,248829.0,chronicle
+596,tt1723811,Shame,0,2011,101,Drama,7.2,193144.0,shame
+597,tt1735898,Snow White and the Huntsman,0,2012,127,"Action,Adventure,Drama",6.1,285755.0,snow-white-and-the-huntsman
+598,tt1748122,Moonrise Kingdom,0,2012,94,"Comedy,Drama,Romance",7.8,343232.0,moonrise-kingdom
+599,tt1764183,Arbitrage,0,2012,107,"Drama,Thriller",6.6,52057.0,arbitrage
+600,tt1781769,Anna Karenina,0,2012,129,"Drama,Romance",6.6,98624.0,anna-karenina
+601,tt1790885,Zero Dark Thirty,0,2012,157,"Drama,History,Thriller",7.4,293256.0,zero-dark-thirty
+602,tt1800241,American Hustle,0,2013,138,"Crime,Drama",7.2,471854.0,american-hustle
+603,tt1825683,Black Panther,0,2018,134,"Action,Adventure,Sci-Fi",7.3,717688.0,black-panther
+604,tt1853728,Django Unchained,0,2012,165,"Drama,Western",8.4,1490195.0,django-unchained
+605,tt1907668,Flight,0,2012,138,"Drama,Thriller",7.3,346965.0,flight
+606,tt1954843,Space Milkshake,0,2012,85,"Comedy,Sci-Fi",6.0,3045.0,space-milkshake
+607,tt1979320,Rush,0,2013,123,"Action,Biography,Drama",8.1,467427.0,rush
+608,tt2006810,Papadopoulos & Sons,0,2012,105,"Comedy,Drama",5.9,2506.0,papadopoulos-&-sons
+609,tt2024544,12 Years a Slave,0,2013,134,"Biography,Drama,History",8.1,684440.0,12-years-a-slave
+610,tt2063781,Smashed,0,2012,81,Drama,6.7,16971.0,smashed
+611,tt2114461,Authors Anonymous,0,2014,92,Comedy,4.3,2218.0,authors-anonymous
+612,tt2125435,Beasts of the Southern Wild,0,2012,93,"Adventure,Drama,Fantasy",7.2,83033.0,beasts-of-the-southern-wild
+613,tt2140373,Saving Mr. Banks,0,2013,125,"Biography,Comedy,Drama",7.5,159983.0,saving-mr.-banks
+614,tt2179136,American Sniper,0,2014,133,"Action,Biography,Drama",7.3,473316.0,american-sniper
+615,tt2180411,Into the Woods,0,2014,125,"Adventure,Comedy,Drama",5.9,139471.0,into-the-woods
+616,tt2235108,Dear White People,0,2014,108,"Comedy,Drama,Romance",6.1,27250.0,dear-white-people
+617,tt2254364,American Milkshake,0,2013,83,Comedy,4.6,332.0,american-milkshake
+618,tt2334649,Fruitvale Station,0,2013,85,"Biography,Crime,Drama",7.5,80462.0,fruitvale-station
+619,tt2350892,Bad Country,0,2014,95,"Action,Crime,Drama",5.8,8499.0,bad-country
+620,tt2380307,Coco,0,2017,105,"Adventure,Animation,Comedy",8.4,474139.0,coco
+621,tt2387411,Candle to Water,0,2012,110,Drama,5.8,19.0,candle-to-water
+622,tt2416048,Christ Complex,0,2012,76,"Comedy,Fantasy",7.0,26.0,christ-complex
+623,tt2473602,Get on Up,0,2014,139,"Biography,Drama,Music",6.9,24431.0,get-on-up
+624,tt2911666,John Wick,0,2014,101,"Action,Crime,Thriller",7.4,604144.0,john-wick
+625,tt2937898,A Most Violent Year,0,2014,125,"Action,Crime,Drama",7.0,71367.0,a-most-violent-year
+626,tt2948356,Zootopia,0,2016,108,"Adventure,Animation,Comedy",8.0,480064.0,zootopia
+627,tt2986772,Twins,0,\N,\N,"Adventure,Comedy",,,twins
+628,tt3020532,Belle,0,2014,52,Drama,,,belle
+629,tt3315342,Logan,0,2017,137,"Action,Drama,Sci-Fi",8.1,725621.0,logan
+630,tt3397884,Sicario,0,2015,121,"Action,Crime,Drama",7.6,415468.0,sicario
+631,tt3450958,War for the Planet of the Apes,0,2017,140,"Action,Adventure,Drama",7.4,249149.0,war-for-the-planet-of-the-apes
+632,tt3783958,La La Land,0,2016,128,"Comedy,Drama,Music",8.0,563326.0,la-la-land
+633,tt3837024,Aliens,0,2014,88,"Comedy,Mystery,Sci-Fi",2.5,15.0,aliens
+634,tt4080956,A Prayer Before Dawn,0,2017,116,"Action,Biography,Crime",6.8,23095.0,a-prayer-before-dawn
+635,tt4558400,Alien Nation,0,\N,\N,Sci-Fi,,,alien-nation
+636,tt4919484,Little Men,0,2016,85,Drama,6.7,7338.0,little-men
+637,tt5052448,Get Out,0,2017,104,"Horror,Mystery,Thriller",7.7,558682.0,get-out
+638,tt5308402,Who's Your Daddy,0,\N,\N,Comedy,,,who's-your-daddy
+639,tt5545876,Code of Silence,0,2014,58,Documentary,7.3,20.0,code-of-silence
+640,tt5594604,Above the Law,0,2015,\N,Documentary,,,above-the-law
+641,tt5603512,Starman,0,\N,\N,"Adventure,Drama,Romance",,,starman
+642,tt6133532,AssAssINS,0,2016,78,"Action,Adventure,Comedy",,,assassins
+643,tt6644200,A Quiet Place,0,2018,90,"Drama,Horror,Sci-Fi",7.5,504862.0,a-quiet-place
