@@ -1,4 +1,11 @@
-# SENTIMENT ANALYSIS ON MOVIE SCRIPTS
+# Sentiment Scores of Movie Scripts and <br/> Their Performance on Comedy Classification Task
+
+## Table of Contents  
+- [Introduction](https://github.com/krystal2710/movie_scripts_sentiments/edit/main/report.md#a-introduction)                                       
+- [Methods and Data](https://github.com/krystal2710/movie_scripts_sentiments/edit/main/report.md#b-methods-and-data)
+- [Results](https://github.com/krystal2710/movie_scripts_sentiments/edit/main/report.md#c-results)
+- [Analysis/Discussion](https://github.com/krystal2710/movie_scripts_sentiments/edit/main/report.md#d-analysisdiscussion)
+- [References](https://github.com/krystal2710/movie_scripts_sentiments/edit/main/report.md#e-references)
 
 ## A. Introduction
 
