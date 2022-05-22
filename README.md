@@ -20,11 +20,20 @@ The project first aims at getting the information of what sentiments movies impl
 
 ## Getting Started
 1. Clone this repo
-2. For the web-scraping part, open `web-scraping.ipynb` and run the source code.
-3. For the main part (extracting sentiment scores and TF-IDF scores from movie scripts and training machine learning models on these scores), open `central_computation.ipynb` and run the source code.
-4. Read the final report, `report.md` for a detailed summary and discussion of the project.
+2. (Optional: you don't need this part to run the central computation part) For the web-scraping part, please first download the IMDB datasets and name them accordingly:
+   - [title_akas.tsv](https://datasets.imdbws.com/title.akas.tsv.gz)
+   - [title_basics.tsv](https://datasets.imdbws.com/title.basics.tsv.gz)
+   - [title_ratings.tsv](https://datasets.imdbws.com/title.ratings.tsv.gz)
+   
+   Then open `web-scraping.ipynb` and run the source code.
+   
+3. For the central computation part (extracting sentiment scores and TF-IDF scores from movie scripts and training machine learning models on these scores), open `central_computation.ipynb` and run the source code.
+4. Read the final report, `report.md`, for a detailed summary and discussion of the project.
 
 ## License
 Distributed under the MIT License.
 
+## Citations
+- IMDb.com. (n.d.). IMDb Datasets. IMDb. Retrieved May 3, 2022, from https://www.imdb.com/interfaces/
+- The internet movie script database (imsdb). The Internet Movie Script Database. (n.d.). Retrieved April 28, 2022, from https://imsdb.com/
 
